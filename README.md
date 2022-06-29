@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="img/1.jpg">
-    <img src="img/1.jpg" alt="Logo" width="80" height="80">
+    <img src="img/1.jpg" alt="Logo" width="320">
   </a>
 
   <h3 align="center">Library for grid layout sort/filter + multitouch drag and drop</h3>
