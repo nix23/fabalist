@@ -9,11 +9,12 @@
     </p>
   </a>
 
-  <h3 align="center">Library for grid layout sort/filter + multitouch drag and drop</h3>
+  <h3 align="center">Fabalist - website(Symfony,Jquery) + Ios/Android apps(React native) for food and beverage industry</h3>
 
   <p align="center">
-    One of my prev projects which I have successfully developed and used in many commercial projects.  This repo contains code for library builder website - a special type of webapp in which all library features can be tested manually with all possible options + library tests suite can be executed. After successful testing new version of library can be build(using Grunt) and uploaded into separate public library repo for clients.
-    Repo for clients: <a href="https://github.com/nix23/gridifier">Open repo for clients</a>.
+    Fabalist - last project on which I have worked on for the last 6 years. During that period over 50000 resumes were sent using our services and about 20% of people got hired.
+    I have successfully developed and maintained website as well mobile apps. 
+    Website: <a href="https://fabalist.com">Open</a>.
   </p>
 </div>
 
