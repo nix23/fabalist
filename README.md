@@ -527,22 +527,12 @@
 ## Website Overview
 
 <div align="center">
-  <h3 align="center">Grid configurator: horizontal grid</h3>
-</div>
-
-<a href="img/1.jpg?raw=true">
-  <p align="center">
-    <img src="img/1.jpg" width="50%">
-  </p>
-</a>
-
-<div align="center">
   <h3 align="center">Grid configurator: vertical grid</h3>
 </div>
 
 <a href="img/2.png?raw=true">
   <p align="center">
-    <img src="img/2.png" width="50%">
+    <img src="img/2.png" width="35%">
   </p>
 </a>
 
@@ -552,7 +542,7 @@
 
 <a href="img/3.png?raw=true">
   <p align="center">
-    <img src="img/3.png" width="50%">
+    <img src="img/3.png" width="35%">
   </p>
 </a>
 
