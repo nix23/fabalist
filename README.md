@@ -528,168 +528,168 @@
   <h3 align="center">Grid configurator: horizontal grid</h3>
 </div>
 
-![alt text](img/screen/1.png)
+![alt text](img/1.png)
 
 <div align="center">
   <h3 align="center">Grid configurator: vertical grid</h3>
 </div>
 
-![alt text](img/screen/2.png)
+![alt text](img/2.png)
 
 <div align="center">
   <h3 align="center">Library builder main page</h3>
 </div>
 
-![alt text](img/screen/3.png)
+![alt text](img/3.png)
 
 <div align="center">
   <h3 align="center">Tests suite page</h3>
 </div>
 
-![alt text](img/screen/4.png)
+![alt text](img/4.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/5.jpg)
+![alt text](img/5.jpg)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/6.png)
+![alt text](img/6.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/7.png)
+![alt text](img/7.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/8.png)
+![alt text](img/8.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/9.png)
+![alt text](img/9.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/10.png)
+![alt text](img/10.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/11.png)
+![alt text](img/11.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/12.png)
+![alt text](img/12.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/13.png)
+![alt text](img/13.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/14.png)
+![alt text](img/14.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/15.png)
+![alt text](img/15.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/16.png)
+![alt text](img/16.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/17.png)
+![alt text](img/17.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/18.png)
+![alt text](img/18.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/19.jpg)
+![alt text](img/19.jpg)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/20.png)
+![alt text](img/20.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/21.jpg)
+![alt text](img/21.jpg)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/22.jpg)
+![alt text](img/22.jpg)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/23.png)
+![alt text](img/23.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/24.png)
+![alt text](img/24.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/25.jpg)
+![alt text](img/25.jpg)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/26.jpg)
+![alt text](img/26.jpg)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/27.png)
+![alt text](img/27.png)
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/screen/28.jpg)
+![alt text](img/28.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
