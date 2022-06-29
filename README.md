@@ -3,13 +3,10 @@
 <!-- INTRO -->
 <br />
 <div align="center">
-  <a href="public/img/screen/1.jpg?raw=true">
+  <a href="img/screen/1.jpg?raw=true">
     <p align="center">
-      <img src="public/img/screen/1.jpg" width="40%">
+      <img src="img/screen/1.jpg" width="40%">
     </p>
-  </a>
-  <a href="img/1.jpg">
-    <img src="img/1.jpg" alt="Logo" width="320">
   </a>
 
   <h3 align="center">Library for grid layout sort/filter + multitouch drag and drop</h3>
@@ -533,168 +530,280 @@
   <h3 align="center">Grid configurator: horizontal grid</h3>
 </div>
 
-![alt text](img/1.png)
+<a href="public/img/screen/1.jpg?raw=true">
+  <p align="center">
+    <img src="public/img/screen/1.jpg" width="50%">
+  </p>
+</a>
 
 <div align="center">
   <h3 align="center">Grid configurator: vertical grid</h3>
 </div>
 
-![alt text](img/2.png)
+<a href="public/img/screen/2.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/2.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
   <h3 align="center">Library builder main page</h3>
 </div>
 
-![alt text](img/3.png)
+<a href="public/img/screen/3.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/3.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
   <h3 align="center">Tests suite page</h3>
 </div>
 
-![alt text](img/4.png)
+<a href="public/img/screen/4.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/4.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/5.jpg)
+<a href="public/img/screen/5.jpg?raw=true">
+  <p align="center">
+    <img src="public/img/screen/5.jpg" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/6.png)
+<a href="public/img/screen/6.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/6.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/7.png)
+<a href="public/img/screen/7.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/7.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/8.png)
+<a href="public/img/screen/8.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/8.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/9.png)
+<a href="public/img/screen/9.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/9.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/10.png)
+<a href="public/img/screen/10.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/10.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/11.png)
+<a href="public/img/screen/11.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/11.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/12.png)
+<a href="public/img/screen/12.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/12.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/13.png)
+<a href="public/img/screen/13.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/13.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/14.png)
+<a href="public/img/screen/14.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/14.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/15.png)
+<a href="public/img/screen/15.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/15.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/16.png)
+<a href="public/img/screen/16.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/16.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/17.png)
+<a href="public/img/screen/17.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/17.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/18.png)
+<a href="public/img/screen/18.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/18.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/19.jpg)
+<a href="public/img/screen/19.jpg?raw=true">
+  <p align="center">
+    <img src="public/img/screen/19.jpg" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/20.png)
+<a href="public/img/screen/20.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/20.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/21.jpg)
+<a href="public/img/screen/21.jpg?raw=true">
+  <p align="center">
+    <img src="public/img/screen/21.jpg" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/22.jpg)
+<a href="public/img/screen/22.jpg?raw=true">
+  <p align="center">
+    <img src="public/img/screen/22.jpg" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/23.png)
+<a href="public/img/screen/23.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/23.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/24.png)
+<a href="public/img/screen/24.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/24.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/25.jpg)
+<a href="public/img/screen/25.jpg?raw=true">
+  <p align="center">
+    <img src="public/img/screen/25.jpg" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/26.jpg)
+<a href="public/img/screen/26.jpg?raw=true">
+  <p align="center">
+    <img src="public/img/screen/26.jpg" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/27.png)
+<a href="public/img/screen/27.png?raw=true">
+  <p align="center">
+    <img src="public/img/screen/27.png" width="50%">
+  </p>
+</a>
 
 <div align="center">
     <h3 align="center">Website with documentation</h3>
 </div>
 
-![alt text](img/28.jpg)
+<a href="public/img/screen/28.jpg?raw=true">
+  <p align="center">
+    <img src="public/img/screen/28.jpg" width="50%">
+  </p>
+</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
