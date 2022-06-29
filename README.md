@@ -145,11 +145,11 @@ Contains core services used by all other bundles.
 * Command/
 * DataFixtures/
 * Entity/
-    Account.php, Notification.php, ...
+    ** Account.php, Notification.php, ...
 * Twig/
 * UploadController/
 * Validator/
-    
+
 
 * gulpfile.js structure:
   ```sh
