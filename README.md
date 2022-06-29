@@ -142,18 +142,17 @@ In process of posting employer can select job category, title, description as we
 
 Contains core services used by all other bundles.
 
-* Command/
-* DataFixtures/
-* Entity/
-    ** Account.php, Notification.php, ...
-* Twig/
-* UploadController/
-* Validator/
-
-
 * gulpfile.js structure:
   ```sh
-
+    Command/
+    DataFixtures/
+    Entity/
+        Account.php
+        Notification.php
+        ...
+    Twig/
+    UploadController/
+    Validator/
   ```
 
 * /js/demoLayoutBuilder/configurator/ structure:
