@@ -13,29 +13,65 @@
 
   <p align="center">
     Fabalist - last project on which I have worked on for the last 6 years. During that period over 50000 resumes were sent using our services and about 20% of people got hired.
-    I have successfully developed and maintained website as well mobile apps. 
+    I have successfully developed and maintained website as well as mobile apps. 
     Website: <a href="https://fabalist.com">Open</a>.
   </p>
 </div>
 
-<!-- LIBRARY BUILDER WEBSITE SHORT OVERVIEW -->
-## Library Builder Website Short Overview
+<!-- WEBSITE FUNCTIONALITY SHORT OVERVIEW -->
+## Website Functionality Short Overview
 
-### /js/demoLayoutBuilder
+### Public area
 
-* /js/init.js (entry point script for index.html) structure:
-  ```sh
-    $(document).ready(function() {
-        // ...
-        // Html-files are loaded dynamically in this project with twig.js library.
-        // Twig is used here because I did not want to add backend for this project
-        // just to load templates through ajax.
-        View.init();
-        
-        // Main application class -> listens for all main page events and processes them
-        var demoLayoutBuilder = new DemoLayoutBuilder($("#demoLayoutContainer"));
-    });
-  ```
+* Landing page
+* About Us page
+* Contact Us page
+* Restaurants page
+* Restaurant profile page
+* Restaurant job posting page
+* Job seeker profile page
+
+### Dashboard for admins
+
+* Dashboard page
+* Accounts page
+* Last activity page
+* Jobs page
+* Resumes page
+* Emails page
+* etc...
+
+### Dashboard for personal accounts (job seekers)
+
+* Dashboard page
+* Manage resume page
+* Create resume page
+* Setup job alert preferences page
+* Favorite jobs page
+* etc...
+
+### Dashboard for business accounts (restaurant managers)
+
+* Dashboard page
+* Post job page
+* View resume page
+* Manage candidates page
+* Manage team page
+* Manage schedules page
+* etc...
+
+### How this functionality works together
+
+Business accounts can post jobs - personal accounts can apply on those jobs.
+In process of posting employer can select job category, title, description as well as other fields. Job is kept active for 7 days - after that its status becomes `inactive` and job seekers cannot apply on it anymore. Employers can add job seekers to contacts, mark them as candidates, start a chat with any of them, invite to interview or call them directly. Job seekers can upload file with a resume or create online with resume builder.
+
+### 3-rd party integrations
+
+* Mailgun to send / receive emails
+* Stripe fixed payments for job postings
+* Stripe subscriptions for unlimited job postings
+* React-native-iap library for Apple/Google payments in mobile apps
+* Facebook/Google/Apple/Linked in log in / sign up buttons
 
 * /js/demoLayoutBuilder/demoLayoutBuilder.js structure:
   ```sh
