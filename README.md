@@ -572,7 +572,7 @@
 
 <a href="img/6.png?raw=true">
   <p align="center">
-    <img src="img/6.png" width="50%">
+    <img src="img/6.png" width="35%">
   </p>
 </a>
 
@@ -762,7 +762,7 @@
 
 <a href="img/25.jpg?raw=true">
   <p align="center">
-    <img src="img/25.jpg" width="50%">
+    <img src="img/25.jpg" width="35%">
   </p>
 </a>
 
@@ -772,7 +772,7 @@
 
 <a href="img/26.jpg?raw=true">
   <p align="center">
-    <img src="img/26.jpg" width="50%">
+    <img src="img/26.jpg" width="35%">
   </p>
 </a>
 
@@ -782,7 +782,7 @@
 
 <a href="img/27.png?raw=true">
   <p align="center">
-    <img src="img/27.png" width="50%">
+    <img src="img/27.png" width="35%">
   </p>
 </a>
 
@@ -792,7 +792,7 @@
 
 <a href="img/28.jpg?raw=true">
   <p align="center">
-    <img src="img/28.jpg" width="50%">
+    <img src="img/28.jpg" width="35%">
   </p>
 </a>
 
