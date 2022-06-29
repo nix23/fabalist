@@ -73,68 +73,87 @@ In process of posting employer can select job category, title, description as we
 * React-native-iap library for Apple/Google payments in mobile apps
 * Facebook/Google/Apple/Linked in log in / sign up buttons
 
-* /js/demoLayoutBuilder/demoLayoutBuilder.js structure:
+<!-- CODEBASE SHORT OVERVIEW -->
+## Codebase Short Overview
+
+### /
+
+* docker-compose.yml structure (3 containers, used in dev env):
   ```sh
-    DemoLayoutBuilder = function($targetEl) {
-        var me = this;
+    services:
+        web:
+            ...
+            container_name: web
+        mysql:
+            ...
+            container_name: mysql
+        php:
+            ...
+            container_name: php
+  ```
 
-        // Setting root page view
-        this._$view = View.attach(this._$view, $targetEl, View.ids.DEMO_LAYOUT_BUILDER.DEMO_LAYOUT_BUILDER);
-        // ... Other vars declaration
-
-        this._construct = function() {
-            // Finding all child views required in this class
-            me._$demoLayoutBuilder = me._$view.parent().find("." + me._css.demoLayoutBuilderClass);
+* gulpfile.js structure:
+  ```sh
+    var app = {
+        buildCss: function(paths, outputFilename) {
             // ...
-
-            // I prefer to split all page UI cmps into objects and then include them using composition.
-            me._gridConfigurator = new DemoLayoutBuilder.Configurator(me._$gridConfiguratorAccordionTab, me);
-            
-            this._bindEvents(); 
-            // ...
-        }
-
-        this._bindEvents = function() {
-            me._bindGridConfiguratorEvents();
+        },
+        buildJs: function(paths, outputFilename) {
             // ...
         }
+    };
 
-        // In most cases communication with composed objects is done using events
-        this._bindGridConfiguratorEvents = function() {
-            $(me._gridConfigurator).on(DemoLayoutBuilder.Configurator.EVENT_CREATE_VERTICAL_GRID, function(event, gridifierSettings) {            
-                me._gridLayout = new DemoLayoutBuilder.DemoLayout(
-                    // ...
-                );
-                // ...
-            });
-
-            $(me._gridConfigurator).on(DemoLayoutBuilder.Configurator.EVENT_CREATE_HORIZONTAL_GRID, function(event, gridifierSettings) {            
-                me._gridLayout = new DemoLayoutBuilder.DemoLayout(
-                    // ...
-                );
-                // ...
-            });
-        }
-
-        // ...
-
-        // Clear on page change
-        this.destruct = function() {
-            me._unbindEvents();
-        }
-
-        this._construct();
-        return this;
-    }
-
-    DemoLayoutBuilder.EVENT_CREATE_GRID = "demoLayoutBuilder.createGrid";
-    // ... Declaring other events
-
-    // Declaring all required fns in prototype
-    DemoLayoutBuilder.prototype._showGridLayoutAccordionTab = function() {
-        // ...
-    }
     // ...
+
+    // Creating diff.types of css file builds.
+    gulp.task('css', function() {
+        pipe.add([c.clientBundleCss + "boot/" + c.sass], 'client-core');
+        pipe.add(c.clientBundleCss + "views/aboutUs/" + c.sass, 'client-aboutus');
+        pipe.add(c.clientBundleCss + "views/account/" + c.sass, 'client-account');
+        // ...
+        pipe.add([
+            c.adminBundleCss + "vendor/" + c.sass,
+            c.adminBundleCss + "vendor/" + c.css,
+            c.adminBundleCss + "boot/" + c.sass
+        ], 'admin-core');
+        pipe.add(c.adminBundleCss + "views/" + c.sass, 'admin-views');
+
+        pipe.run(app.buildCss);
+    });
+
+    // Creating diff.types of js file builds.
+    gulp.task('js', function() {
+        pipe.add([
+            c.clientBundleJs + "vendor/" + c.js,
+            c.clientBundleJs + "controller/" + c.js,
+            c.clientBundleJs + "boot/" + c.js
+        ], 'client-core');
+
+        // Client modules
+        pipe.add(c.clientBundleJs + "views/aboutUs/" + c.js, 'client-aboutus');
+        pipe.add(c.clientBundleJs + "views/account/" + c.js, 'client-account');
+        // ...
+
+        pipe.run(app.buildJs);
+    });
+  ```
+
+### /src/Ntech/CoreBundle/
+
+Contains core services used by all other bundles.
+
+* Command/
+* DataFixtures/
+* Entity/
+    Account.php, Notification.php, ...
+* Twig/
+* UploadController/
+* Validator/
+    
+
+* gulpfile.js structure:
+  ```sh
+
   ```
 
 * /js/demoLayoutBuilder/configurator/ structure:
