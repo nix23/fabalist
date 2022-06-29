@@ -3,9 +3,9 @@
 <!-- INTRO -->
 <br />
 <div align="center">
-  <a href="img/screen/1.jpg?raw=true">
+  <a href="img/1.jpg?raw=true">
     <p align="center">
-      <img src="img/screen/1.jpg" width="40%">
+      <img src="img/1.jpg" width="40%">
     </p>
   </a>
 
@@ -530,9 +530,9 @@
   <h3 align="center">Grid configurator: horizontal grid</h3>
 </div>
 
-<a href="public/img/screen/1.jpg?raw=true">
+<a href="img/1.jpg?raw=true">
   <p align="center">
-    <img src="public/img/screen/1.jpg" width="50%">
+    <img src="img/1.jpg" width="50%">
   </p>
 </a>
 
@@ -540,9 +540,9 @@
   <h3 align="center">Grid configurator: vertical grid</h3>
 </div>
 
-<a href="public/img/screen/2.png?raw=true">
+<a href="img/2.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/2.png" width="50%">
+    <img src="img/2.png" width="50%">
   </p>
 </a>
 
@@ -550,9 +550,9 @@
   <h3 align="center">Library builder main page</h3>
 </div>
 
-<a href="public/img/screen/3.png?raw=true">
+<a href="img/3.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/3.png" width="50%">
+    <img src="img/3.png" width="50%">
   </p>
 </a>
 
@@ -560,9 +560,9 @@
   <h3 align="center">Tests suite page</h3>
 </div>
 
-<a href="public/img/screen/4.png?raw=true">
+<a href="img/4.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/4.png" width="50%">
+    <img src="img/4.png" width="50%">
   </p>
 </a>
 
@@ -570,9 +570,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/5.jpg?raw=true">
+<a href="img/5.jpg?raw=true">
   <p align="center">
-    <img src="public/img/screen/5.jpg" width="50%">
+    <img src="img/5.jpg" width="50%">
   </p>
 </a>
 
@@ -580,9 +580,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/6.png?raw=true">
+<a href="img/6.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/6.png" width="50%">
+    <img src="img/6.png" width="50%">
   </p>
 </a>
 
@@ -590,9 +590,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/7.png?raw=true">
+<a href="img/7.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/7.png" width="50%">
+    <img src="img/7.png" width="50%">
   </p>
 </a>
 
@@ -600,9 +600,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/8.png?raw=true">
+<a href="img/8.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/8.png" width="50%">
+    <img src="img/8.png" width="50%">
   </p>
 </a>
 
@@ -610,9 +610,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/9.png?raw=true">
+<a href="img/9.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/9.png" width="50%">
+    <img src="img/9.png" width="50%">
   </p>
 </a>
 
@@ -620,9 +620,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/10.png?raw=true">
+<a href="img/10.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/10.png" width="50%">
+    <img src="img/10.png" width="50%">
   </p>
 </a>
 
@@ -630,9 +630,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/11.png?raw=true">
+<a href="img/11.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/11.png" width="50%">
+    <img src="img/11.png" width="50%">
   </p>
 </a>
 
@@ -640,9 +640,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/12.png?raw=true">
+<a href="img/12.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/12.png" width="50%">
+    <img src="img/12.png" width="50%">
   </p>
 </a>
 
@@ -650,9 +650,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/13.png?raw=true">
+<a href="img/13.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/13.png" width="50%">
+    <img src="img/13.png" width="50%">
   </p>
 </a>
 
@@ -660,9 +660,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/14.png?raw=true">
+<a href="img/14.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/14.png" width="50%">
+    <img src="img/14.png" width="50%">
   </p>
 </a>
 
@@ -670,9 +670,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/15.png?raw=true">
+<a href="img/15.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/15.png" width="50%">
+    <img src="img/15.png" width="50%">
   </p>
 </a>
 
@@ -680,9 +680,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/16.png?raw=true">
+<a href="img/16.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/16.png" width="50%">
+    <img src="img/16.png" width="50%">
   </p>
 </a>
 
@@ -690,9 +690,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/17.png?raw=true">
+<a href="img/17.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/17.png" width="50%">
+    <img src="img/17.png" width="50%">
   </p>
 </a>
 
@@ -700,9 +700,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/18.png?raw=true">
+<a href="img/18.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/18.png" width="50%">
+    <img src="img/18.png" width="50%">
   </p>
 </a>
 
@@ -710,9 +710,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/19.jpg?raw=true">
+<a href="img/19.jpg?raw=true">
   <p align="center">
-    <img src="public/img/screen/19.jpg" width="50%">
+    <img src="img/19.jpg" width="50%">
   </p>
 </a>
 
@@ -720,9 +720,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/20.png?raw=true">
+<a href="img/20.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/20.png" width="50%">
+    <img src="img/20.png" width="50%">
   </p>
 </a>
 
@@ -730,9 +730,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/21.jpg?raw=true">
+<a href="img/21.jpg?raw=true">
   <p align="center">
-    <img src="public/img/screen/21.jpg" width="50%">
+    <img src="img/21.jpg" width="50%">
   </p>
 </a>
 
@@ -740,9 +740,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/22.jpg?raw=true">
+<a href="img/22.jpg?raw=true">
   <p align="center">
-    <img src="public/img/screen/22.jpg" width="50%">
+    <img src="img/22.jpg" width="50%">
   </p>
 </a>
 
@@ -750,9 +750,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/23.png?raw=true">
+<a href="img/23.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/23.png" width="50%">
+    <img src="img/23.png" width="50%">
   </p>
 </a>
 
@@ -760,9 +760,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/24.png?raw=true">
+<a href="img/24.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/24.png" width="50%">
+    <img src="img/24.png" width="50%">
   </p>
 </a>
 
@@ -770,9 +770,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/25.jpg?raw=true">
+<a href="img/25.jpg?raw=true">
   <p align="center">
-    <img src="public/img/screen/25.jpg" width="50%">
+    <img src="img/25.jpg" width="50%">
   </p>
 </a>
 
@@ -780,9 +780,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/26.jpg?raw=true">
+<a href="img/26.jpg?raw=true">
   <p align="center">
-    <img src="public/img/screen/26.jpg" width="50%">
+    <img src="img/26.jpg" width="50%">
   </p>
 </a>
 
@@ -790,9 +790,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/27.png?raw=true">
+<a href="img/27.png?raw=true">
   <p align="center">
-    <img src="public/img/screen/27.png" width="50%">
+    <img src="img/27.png" width="50%">
   </p>
 </a>
 
@@ -800,9 +800,9 @@
     <h3 align="center">Website with documentation</h3>
 </div>
 
-<a href="public/img/screen/28.jpg?raw=true">
+<a href="img/28.jpg?raw=true">
   <p align="center">
-    <img src="public/img/screen/28.jpg" width="50%">
+    <img src="img/28.jpg" width="50%">
   </p>
 </a>
 
