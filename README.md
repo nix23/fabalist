@@ -3,6 +3,11 @@
 <!-- INTRO -->
 <br />
 <div align="center">
+  <a href="public/img/screen/1.jpg?raw=true">
+    <p align="center">
+      <img src="public/img/screen/1.jpg" width="40%">
+    </p>
+  </a>
   <a href="img/1.jpg">
     <img src="img/1.jpg" alt="Logo" width="320">
   </a>
