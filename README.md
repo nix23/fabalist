@@ -271,7 +271,7 @@ Contains services for mobile applications.
 ## Website Overview
 
 <div align="center">
-  <h3 align="center">Grid configurator: vertical grid</h3>
+  <h3 align="center">Landing page</h3>
 </div>
 
 <a href="img/2.png?raw=true">
@@ -281,7 +281,7 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-  <h3 align="center">Library builder main page</h3>
+  <h3 align="center">Mobile layout for landing page</h3>
 </div>
 
 <a href="img/3.png?raw=true">
@@ -291,7 +291,8 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-  <h3 align="center">Tests suite page</h3>
+  <h3 align="center">Restaurants page.</h3>
+  <p align="center"> Entries are sorted by total number of applicants(on all jobs). The total number of applicants for each restaurant is recalculated in separate bg job(launched from cron job).</p>
 </div>
 
 <a href="img/4.png?raw=true">
