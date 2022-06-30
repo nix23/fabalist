@@ -286,12 +286,12 @@ Contains services for mobile applications.
 
 <a href="img/3.png?raw=true">
   <p align="center">
-    <img src="img/3.png" width="35%">
+    <img src="img/3.png" width="20%">
   </p>
 </a>
 
 <div align="center">
-  <h3 align="center">Restaurants page.</h3>
+  <h3 align="center">Restaurants page</h3>
   <p align="center"> Entries are sorted by total number of applicants(on all jobs). The total number of applicants for each restaurant is recalculated in separate bg job(launched from cron job).</p>
 </div>
 
