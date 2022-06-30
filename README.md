@@ -302,17 +302,18 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Restaurant profile page</h3>
+    <p align="center">Contains restaurant info/photos, list of job postings / list of team members(by categories). Near by list is created with geo search query: nearby restaurants are selected(by given point lat/lng + haversine formula for two points on sphere) + sorted by distance.</p>
 </div>
 
 <a href="img/5.jpg?raw=true">
   <p align="center">
-    <img src="img/5.jpg" width="50%">
+    <img src="img/5.jpg" width="20%">
   </p>
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Mobile layout for restaurant profile page</h3>
 </div>
 
 <a href="img/6.png?raw=true">
@@ -322,7 +323,7 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Near by page</h3>
 </div>
 
 <a href="img/7.png?raw=true">
@@ -332,7 +333,8 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Jobs page</h3>
+    <p align="center">Contains a list of jobs / map with jobs. Job postings are selected using selected filters list(By position/restaurant type/employment type). Besides that 1 of 3 select types are used: by geolocation(by def.), by zip code or by city. Select by geolocation query uses lat/lng received from client and transforms it to zip codes near by that point(which are used in query to select jobs).</p>
 </div>
 
 <a href="img/8.png?raw=true">
@@ -342,7 +344,9 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">View job posting page</h3>
+    <p align="center">Job seeker can apply with 1 click(if is logged in) or fill up short
+    sign up + apply form.</p>
 </div>
 
 <a href="img/9.png?raw=true">
@@ -352,7 +356,8 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Sign up + apply form (for personal accounts)</h3>
+    <p align="center">Alternative to default sign up form(which consists from ~15 fields and requires 2 steps to complete). Contains only the most basic fields which are required to apply on job.</p>
 </div>
 
 <a href="img/10.png?raw=true">
@@ -362,27 +367,8 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
-</div>
-
-<a href="img/11.png?raw=true">
-  <p align="center">
-    <img src="img/11.png" width="50%">
-  </p>
-</a>
-
-<div align="center">
-    <h3 align="center">Website with documentation</h3>
-</div>
-
-<a href="img/12.png?raw=true">
-  <p align="center">
-    <img src="img/12.png" width="50%">
-  </p>
-</a>
-
-<div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Sign up + post job form (for business accounts)</h3>
+    <p align="center">Alternative to default sign up form(which consists from ~30 fields and requires 2 steps to complete + extra step to create job posting). Contains only the most basic fields which are required to create job posting.</p>
 </div>
 
 <a href="img/13.png?raw=true">
@@ -392,7 +378,28 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Log in form</h3>
+</div>
+
+<a href="img/11.png?raw=true">
+  <p align="center">
+    <img src="img/11.png" width="50%">
+  </p>
+</a>
+
+<div align="center">
+    <h3 align="center">Sign up form</h3>
+</div>
+
+<a href="img/12.png?raw=true">
+  <p align="center">
+    <img src="img/12.png" width="50%">
+  </p>
+</a>
+
+<div align="center">
+    <h3 align="center">Dashboard for job seeker (personal account)</h3>
+    <p align="center">Job seeker can upload or create resume, view favorited jobs or explore latest job alerts. Job positions in which employee is interested can be configured on 'Setup Alerts' page.</p>
 </div>
 
 <a href="img/14.png?raw=true">
@@ -402,7 +409,8 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Dashboard for restaurant manager (business account)</h3>
+    <p align="center">Manager can manage job postings(create,stop or repost), manage saved candidates and explore applicant resumes. Manager can contact any applicant through our service, email or direct phone call.(Employee phone is shown only if he applied on at least one restaurant job)</p>
 </div>
 
 <a href="img/15.png?raw=true">
@@ -412,7 +420,8 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Resumes page</h3>
+    <p align="center">Manager can filter applicants by job position or search by first/last name.</p>
 </div>
 
 <a href="img/16.png?raw=true">
@@ -422,7 +431,8 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Post job page</h3>
+    <p align="center">Manager can create unlimited job postings if stripe subscription plan is active. Otherwise 'Purchase 1 job posting' popup will appear on 'POST' button click.</p>
 </div>
 
 <a href="img/17.png?raw=true">
@@ -432,7 +442,7 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">View resume page</h3>
 </div>
 
 <a href="img/18.png?raw=true">
@@ -442,7 +452,8 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Chats page</h3>
+    <p align="center">Project supports chats with arbirtrary number of participants as well as conversations(one-to-one chats).</p>
 </div>
 
 <a href="img/19.jpg?raw=true">
@@ -452,7 +463,8 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Notifications page</h3>
+    <p align="center">Almost any significant action in project creates notification. For example, when job seeker has sent resume on job - restaurant receives corresponding notification(email or push). After that, when manager has opened applicant view resume page - job seeker receives "Your resume was viewed by ..." notification.</p>
 </div>
 
 <a href="img/20.png?raw=true">
@@ -462,7 +474,7 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Resume builder</h3>
 </div>
 
 <a href="img/21.jpg?raw=true">
@@ -472,7 +484,7 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">View resume created in resume builder</h3>
 </div>
 
 <a href="img/22.jpg?raw=true">
@@ -482,7 +494,7 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Admin dashboard</h3>
 </div>
 
 <a href="img/23.png?raw=true">
@@ -492,7 +504,7 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Admin dashboard - jobs page</h3>
 </div>
 
 <a href="img/24.png?raw=true">
@@ -502,42 +514,42 @@ Contains services for mobile applications.
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Ios mobile app - home screen</h3>
 </div>
 
 <a href="img/25.jpg?raw=true">
   <p align="center">
-    <img src="img/25.jpg" width="35%">
+    <img src="img/25.jpg" width="25%">
   </p>
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Ios mobile app - jobs screen</h3>
 </div>
 
 <a href="img/26.jpg?raw=true">
   <p align="center">
-    <img src="img/26.jpg" width="35%">
+    <img src="img/26.jpg" width="25%">
   </p>
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Ios mobile app - view job screen</h3>
 </div>
 
 <a href="img/27.png?raw=true">
   <p align="center">
-    <img src="img/27.png" width="35%">
+    <img src="img/27.png" width="25%">
   </p>
 </a>
 
 <div align="center">
-    <h3 align="center">Website with documentation</h3>
+    <h3 align="center">Ios mobile app - view restaurant profile screen</h3>
 </div>
 
 <a href="img/28.jpg?raw=true">
   <p align="center">
-    <img src="img/28.jpg" width="35%">
+    <img src="img/28.jpg" width="25%">
   </p>
 </a>
 
